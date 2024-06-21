@@ -12,7 +12,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 
 This repository is a collection of my solutions to LeetCode problems. I created this repository to keep track of my progress and to share my solutions with the community. Each solution is implemented in Java, and I have included explanations and comments within the code to help understand my approach.
 
-## Solutions
+## Programming Skills I
 
 | S.No  | Problem Name                                                                                       | Solution                          | Difficulty | Date       |
 |----|-----------------------------------------------------------------------------------------------------|-----------------------------------|------------|------------|
