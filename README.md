@@ -4,8 +4,8 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Programming Skills](#solutions)
+- [Introduction](https://github.com/Rajendran2201/Leetcode-Solutions/tree/main)
+- [Programming Skills I](https://github.com/Rajendran2201/Leetcode-Solutions/tree/main/Programming%20Skills%20I)
 
 
 ## Introduction
@@ -16,10 +16,6 @@ This repository is a collection of my solutions to LeetCode problems. I created 
 
 | S.No  | Problem Name                                                                                       | Solution                          | Difficulty | Date       |
 |----|-----------------------------------------------------------------------------------------------------|-----------------------------------|------------|------------|
-| 1  | [Two Sum](https://leetcode.com/problems/two-sum)                                                   | [Java](solutions/TwoSum.java)     | Easy       | 2024-01-01 |
-| 2  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)                                   | [Java](solutions/AddTwoNumbers.java) | Medium     | 2024-01-02 |
-| 3  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Java](solutions/LongestSubstringWithoutRepeatingCharacters.java) | Medium     | 2024-01-03 |
-| 4  | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)           | [Java](solutions/MedianOfTwoSortedArrays.java) | Hard       | 2024-01-04 |
-| 5  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)       | [Java](solutions/LongestPalindromicSubstring.java) | Medium     | 2024-01-05 |
+| 1  | [1523. Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/description/)                                                   | [Java](https://github.com/Rajendran2201/Leetcode-Solutions/tree/main/Programming%20Skills%20I/01%20-%20(1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range))     | Easy       | 2024-06-21 |
+| 2  | [1491. Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/description/)                                   | [Java]([solutions/AddTwoNumbers.java](https://github.com/Rajendran2201/Leetcode-Solutions/tree/main/Programming%20Skills%20I/02%20-%20(1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary))) | Easy     | 2024-06-21 |
 
-(Note: The above table is an example. You can add more rows to include other problems you have solved.)
