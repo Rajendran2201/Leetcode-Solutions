@@ -15,3 +15,6 @@ class betterSolution {
         return arr;
     }
 }
+
+
+// reference: https://www.youtube.com/watch?v=UXDSeD9mN-k
