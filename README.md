@@ -32,3 +32,4 @@ This repository is a collection of my solutions to LeetCode problems. I created 
 | S.No  | Problem Name                                                                                       | Solution                          | Difficulty | Date       |
 |----|-----------------------------------------------------------------------------------------------------|-----------------------------------|------------|------------|
 | 1  | [0001. Two Sum ](https://leetcode.com/problems/two-sum/description/)   | [Java](https://github.com/Rajendran2201/Leetcode-Solutions/tree/main/Blind%2075%20Problems/01%20-%20(0001.%20Two%20Sum))  | Easy       | 2024-06-25 |
+| 2 | [0073. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | [Java](https://github.com/Rajendran2201/Leetcode-Solutions/tree/main/Blind%2075%20Problems/02%20-%20(73.%20Set%20Matrix%20Zeroes)) | Medium | 2024-06-25
