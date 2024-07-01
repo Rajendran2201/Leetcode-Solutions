@@ -33,3 +33,14 @@ This repository is a collection of my solutions to LeetCode problems. I created 
 |----|-----------------------------------------------------------------------------------------------------|-----------------------------------|------------|------------|
 | 1  | [0001. Two Sum ](https://leetcode.com/problems/two-sum/description/)   | [Java](https://github.com/Rajendran2201/Leetcode-Solutions/tree/main/Blind%2075%20Problems/01%20-%20(0001.%20Two%20Sum))  | Easy       | 2024-06-25 |
 | 2 | [0073. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | [Java](https://github.com/Rajendran2201/Leetcode-Solutions/tree/main/Blind%2075%20Problems/02%20-%20(73.%20Set%20Matrix%20Zeroes)) | Medium | 2024-06-25
+
+# Striver's SDE Sheet 
+
+## Arrays 
+
+| S.No  | Problem Name                                                                                       | Solution                          | Difficulty | Date       |
+|----|-----------------------------------------------------------------------------------------------------|-----------------------------------|------------|------------|
+| 1  | [0075. Sort Colors](https://leetcode.com/problems/sort-colors/description/)   | [Java](https://github.com/Rajendran2201/Leetcode-Solutions/tree/main/Striver’s%20SDE%20Sheet%20–%20Top%20Coding%20Interview%20Problems/Arrays/01%20-%20(75.%20Sort%20Colors))  | Medium       | 2024-07-01 |
+
+
+
